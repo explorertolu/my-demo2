@@ -6,3 +6,5 @@ This demo shows a simple container based application deployment that runs in ope
 The application runs a simple node.js server and serves up HTML pages. 
 
 The deployment uses OpenShift Workflow and was completed by automation using Github Actions.
+
+Work Flow: REPO-DOCKERHUB-OPENSHIFT
