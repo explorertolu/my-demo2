@@ -1,5 +1,5 @@
 {
-  "name": "simple-demo-app",
+  "name": "my-demo2",
   "version": "1.0.0",
   "description": "This application has a simple dockerfile which containers node.js web server.",
   "main": "app.js",
